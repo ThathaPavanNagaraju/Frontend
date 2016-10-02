@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0387D1</color>
+    <color name="colorPrimaryDark">#0387D1</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="title">#4A6359</color>
+    <color name="background">#303030</color>
+    <color name="unselected">#D8D8D8</color>
+    <color name="selected">#E5E5E5</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="orange">#EB4B3F</color>
+    <color name="violet">#8D44AD</color>
+    <color name="dark_blue">#2D3E52</color>
+    <color name="magenta">#DF8127</color>
+    <color name="selected_card">#616161</color>
+    <color name="un_selected_card">#303030</color>
+</resources>
